@@ -1,0 +1,44 @@
+# The book's title. Will be used everywhere!
+title: "Kitabu"
+
+# The book's language.
+language: en
+
+# Your book copyright info.
+# Here's some examples:
+#
+#   Copyright 2015 by Tyr Chen.
+#   Copyright 2015 by Tyr Chen. This work is licensed under MIT License.
+#   This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+#   This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+#   This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+#
+copyright: "Copyright (C) 2015 Tyr Chen."
+
+# Who's publishing this book.
+publisher: "Tyr Chen"
+
+# When this book was published.
+published_at: "2015-06-15"
+
+# Some book description.
+subject: "This guide will help you understand how all of the pieces fit together on Kitabu."
+
+# Some keywords that identify this book.
+keywords: "kitabu, e-book, kindlegen, epub, mobi, pdf, prince"
+
+# Some unique identification. Works great with your domain
+# like `http://yourbook.example.com`.
+uid: "aa04a393c84d7d6eecf2e8d963bd1a2c"
+
+# Your book identification like ISBN or ISSN.
+identifier:
+  id: "http://yourbook.example.com"
+  type: "URL" # can be ISBN, ISSN or URL
+
+# This book authors.
+authors:
+  - "Tyr Chen"
+
+# Syntax highlight theme. Can be any of supported by Rouge.
+theme: github
